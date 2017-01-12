@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PasswordDemo</string>
+    <string name="use_digit_password">使用数字密码</string>
+    <string name="use_pattern_password">使用图案密码</string>
+</resources>

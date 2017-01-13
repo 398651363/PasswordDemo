@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PatternPasswordView">
+        <attr name="aspect">
+            <enum name="square" value="0"/>
+            <enum name="lockWidth" value="1"/>
+            <enum name="lockHeight" value="2"/>
+        </attr>
+        <attr name="line" format="color"/>
+        <attr name="btnNormal" format="reference"/>
+        <attr name="btnTouch" format="reference"/>
+        <attr name="circleNormal" format="reference"/>
+        <attr name="circleRight" format="reference"/>
+        <attr name="circleWrong" format="reference"/>
+        <attr name="arrowRightUp" format="reference"/>
+        <attr name="arrowWrongUp" format="reference"/>
+    </declare-styleable>
+</resources>
